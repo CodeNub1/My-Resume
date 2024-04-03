@@ -259,6 +259,12 @@ body {
     color: black;
     font-size: 1.6rem;
   }
+
+  .experience-sub-sub-heading {
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+    font-size: 1.0rem;
+  }
   
   /* Style for experience details */
   .experience-details {
